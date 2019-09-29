@@ -17,9 +17,9 @@ manual
 
   Prerequisite:
 
-  OS: Windows, Mac or Linux Compilers:
-  perl and R (version ≥ 3.1.2)
-  Dependencies: R packages- “matrixStats”, “mefa4”, “dnet”, “SANTA”,“limma”, “Biobase”
+    OS: Windows, Mac or Linux Compilers:
+    perl and R (version ≥ 3.1.2)
+    Dependencies: R packages- “matrixStats”, “mefa4”, “dnet”, “SANTA”,“limma”, “Biobase”
 
 
   Running the sample dataset:
