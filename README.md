@@ -16,19 +16,24 @@ manual
 
 
 Prerequisite:
+
 OS: Windows, Mac or Linux Compilers:
 perl and R (version ≥ 3.1.2)
 Dependencies: R packages- “matrixStats”, “mefa4”, “dnet”, “SANTA”,“limma”, “Biobase”
 
 
 Running the sample dataset:
+
 The APA is packaged with sample dataset in which 17 control samples has wild-type p53 gene
 status and 33 samples have mutated p53 samples. The APA can be executed as:
 
+
 perl APA.pl -case sample/case.txt -control sample/control.txt -o sam_output
+
 
 By default KEGG [human] pathway database will be used, if user wants to change the pathway
 database then -P flag can be used:
+
 perl APA.pl -case sample/case.txt -control sample/control.txt -o sam_output -P PANTHER
 
 In this case, instead of KEGG, PANTHER database for human pathways will be used. For more
