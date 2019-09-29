@@ -1,0 +1,4 @@
+1. APA now accepts RNAseq readcount matrices as input (require -rnaseq) along with traditional normalized gene expression values.
+The RNAseq readcount matrix cannot be used together with normalized gene expression values.
+
+2. Minor bug fixes.
