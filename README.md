@@ -2,6 +2,8 @@
 Altered Pathway Analyzer
 http://bioinfo.icgeb.res.in/APA/
 
+Kaushik A, Ali S, Gupta D. Altered Pathway Analyzer: A gene expression dataset analysis tool for identification and prioritization of differentially regulated and network rewired pathways. Sci Rep. 2017 Jan 13;7:40450. doi:10.1038/srep40450
+
 Altered Pathway Analyzer (APA) is a cross-platform and standalone tool for analyzing gene
 expression datasets to highlight significantly rewired pathways across case-vs-control
 conditions. The Tool is designed to analyze human gene expression datasets (with Entrez ID);
